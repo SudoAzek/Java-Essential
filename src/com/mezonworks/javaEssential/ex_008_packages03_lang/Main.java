@@ -1,4 +1,4 @@
-package com.mezonworks.javaEssential.ex_007_packages03_lang;
+package com.mezonworks.javaEssential.ex_008_packages03_lang;
 
 //import java.lang.*;
 
