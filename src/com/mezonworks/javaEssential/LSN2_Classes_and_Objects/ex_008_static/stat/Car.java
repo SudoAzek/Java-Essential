@@ -1,4 +1,4 @@
-package com.mezonworks.javaEssential.LSN2_Classes_and_Objects.ex_008_stat;
+package com.mezonworks.javaEssential.LSN2_Classes_and_Objects.ex_008_static.stat;
 
 public class Car {
     String model;
