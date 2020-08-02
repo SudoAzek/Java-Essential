@@ -20,7 +20,7 @@ public class Main {
 
         instance.method();
 
-        // Fields aren't available
+        // Anonymous fields aren't available
 //        System.out.println(instance.d);
     }
 }
